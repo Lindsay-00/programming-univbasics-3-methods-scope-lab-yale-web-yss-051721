@@ -6,3 +6,11 @@ describe "all_phrases" do
   end
 end
 puts all_phrases
+def mario
+  status = 'Thank You Mario! But Our Princess Is In Another Castle!'
+  puts phrase
+end
+
+def toadstool
+  puts status
+end
